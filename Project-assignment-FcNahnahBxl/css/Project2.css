@@ -8,7 +8,7 @@ body {
 }
 
 .container-fluid {
-    background-color: rgb(55 83 56);
+    background-color: rgb(3, 41, 20);
     background-position: center;
     /* Center the image */
     background-repeat: no-repeat;
@@ -18,11 +18,9 @@ body {
 }
 
 .container-fluid2 {
-    
     background-image: url(../img/greeen\ bg.jpg);
     background-size: cover;
-    background-position:center;
-    
+    background-position: center;
 }
 
 .card-body {
@@ -42,11 +40,10 @@ body {
     margin-left: 0px;
 }
 
-
 .row h3 {
     color: rgb(18, 26, 18);
 }
 
 .row a {
-color: #fff
+    color: #fff
 }

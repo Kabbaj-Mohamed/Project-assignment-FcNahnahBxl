@@ -19,7 +19,6 @@ body {
     padding: 5em;
 }
 
-
 .post h1 {
     margin-top: 3.5em;
     text-align: center;
@@ -27,15 +26,12 @@ body {
     text-shadow: 10px 5px 10px rgb(0, 255, 55);
 }
 
-
 .post .sous-titre {
     margin-top: 1em;
     color: rgb(223, 255, 220);
     text-shadow: 10px 5px 10px rgb(0, 255, 55);
     text-align: center;
 }
-
-
 
 .my-2 {
     margin-top: 1rem !important;
@@ -46,4 +42,3 @@ body {
 .button-member {
     text-align: center;
 }
-
