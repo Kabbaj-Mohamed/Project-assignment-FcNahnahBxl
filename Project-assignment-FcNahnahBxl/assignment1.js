@@ -9,7 +9,8 @@ cv = {
     Formation: { Nom: 'Intec Brussel', Lieu: 'Auderghem.', },
     Hobbies: ['Football', 'Basketball', 'Tennis'],
     Infos: { Gsm: '0435 957 604', email: 'msk@gmail.com' }
-}
+} 
+
 
 let output1 = " Hello my name is " + cv.Nom + cv.Prénom + 'and I am ' + cv.Age + ' years old.'
 let output2 = " I come from " + cv.Adresse[0] + " I'm living in " + cv.Adresse[2] + " not  far from " + cv.Adresse[1]
