@@ -1,0 +1,23 @@
+body {
+    height: 100%;
+    width: 50%;
+    margin : 0 auto;
+}
+
+.navbar {
+    background-color: #051322!important;
+}
+
+.container-fluid {
+    
+    background-position: center;
+    /* Center the image */
+    background-repeat: no-repeat;
+    /* Do not repeat the image */
+    background-size: cover;
+    padding: 5em;
+}
+
+.btn-primary {
+    text-align: center;
+}
